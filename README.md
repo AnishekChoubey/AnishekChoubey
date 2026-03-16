@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**AnishekChoubey/AnishekChoubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Its me Framds
 
-Here are some ideas to get you started:
+```java
+@Component
+public class GoodBoy {
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    private final String name        = "Anishek Choubey";
+    private final String role        = "Full Stack Developer";
+    private final String[] stack     = {"Spring Boot", "Android", "Java", "gRPC APIs"};
+    private final String passion     = "Building products people love";
+    private final boolean openToWork = true;
+
+}
+```
